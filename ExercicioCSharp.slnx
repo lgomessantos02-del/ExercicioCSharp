@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/ExLista03/">
     <Project Path="Ex31/Ex31.csproj" Id="0fba9418-9e72-432e-925e-c03b2c7a76b9" />
+    <Project Path="Ex32/Ex32.csproj" Id="fc57925a-c20e-42c5-833c-544f77ab71d2" />
   </Folder>
   <Folder Name="/Material/">
     <Project Path="OlaMundo/OlaMundo.csproj" />
